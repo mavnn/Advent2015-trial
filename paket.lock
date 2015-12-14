@@ -1,0 +1,11 @@
+NUGET
+  remote: https://nuget.org/api/v2
+  specs:
+    FSharp.Core (4.0.0.1)
+    Http.fs-prerelease (2.4.0)
+      FSharp.Core (>= 3.1.2.1)
+    IKVM (8.1.5717)
+    Stanford.NLP.CoreNLP (3.5.2.1)
+      IKVM (8.1.5717)
+    Stanford.NLP.Parser (3.5.2.1)
+      IKVM (8.1.5717)
